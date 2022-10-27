@@ -13,6 +13,7 @@
 ```
 git clone https://github.com/Rezenhorn/infra_sp2.git
 ```
+### Создать файл .env в папке infra/ и заполнить его в соответствии с примером (файл .env.example):
 ### Из папки infra/ запустить Docker:
 ```
 docker-compose up -d --build
